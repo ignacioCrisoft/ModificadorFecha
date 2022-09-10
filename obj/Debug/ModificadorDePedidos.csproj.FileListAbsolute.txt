@@ -1,0 +1,82 @@
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.frmColor.resources
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.Form1.resources
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.frmDetalle.resources
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.frmInfo.resources
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.frmProduccion.resources
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.Properties.Resources.resources
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.csproj.GenerateResource.cache
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.csproj.CoreCompileInputs.cache
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\bin\Debug\ModificadorDePedidos.exe.config
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\bin\Debug\ModificadorDePedidos.exe
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\bin\Debug\ModificadorDePedidos.pdb
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\bin\Debug\Entidades.dll
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\bin\Debug\Negocios.dll
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\bin\Debug\Datos.dll
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\bin\Debug\MySql.Data.dll
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\bin\Debug\Globales.dll
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\bin\Debug\Google.Protobuf.dll
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\bin\Debug\ZstdNet.dll
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\bin\Debug\BouncyCastle.Crypto.dll
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\bin\Debug\Ubiety.Dns.Core.dll
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\bin\Debug\System.Memory.dll
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\bin\Debug\System.Buffers.dll
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\bin\Debug\K4os.Compression.LZ4.dll
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\bin\Debug\K4os.Hash.xxHash.dll
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\bin\Debug\System.Numerics.Vectors.dll
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\bin\Debug\Entidades.pdb
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\bin\Debug\Negocios.pdb
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\bin\Debug\Datos.pdb
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\bin\Debug\MySql.Data.xml
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\bin\Debug\Globales.pdb
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.csproj.AssemblyReference.cache
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.exe.config
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.csproj.CopyComplete
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.exe
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.pdb
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\bin\Debug\ModificadorDePedidos.exe.manifest
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\bin\Debug\ModificadorDePedidos.application
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.exe.manifest
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.application
+D:\Crisoft\Repos\Modificador de pedidos\ModificadorDePedidos\bin\Debug\App.config
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\bin\Debug\App.config
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\bin\Debug\ModificadorDePedidos.exe.config
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\bin\Debug\ModificadorDePedidos.exe.manifest
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\bin\Debug\ModificadorDePedidos.application
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\bin\Debug\ModificadorDePedidos.exe
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\bin\Debug\ModificadorDePedidos.pdb
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\bin\Debug\Entidades.dll
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\bin\Debug\Negocios.dll
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\bin\Debug\Datos.dll
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\bin\Debug\Globales.dll
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\bin\Debug\ZstdNet.dll
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\bin\Debug\Negocios.pdb
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\bin\Debug\Datos.pdb
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\bin\Debug\MySql.Data.xml
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\bin\Debug\Globales.pdb
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.exe.config
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.frmColor.resources
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.Form1.resources
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.frmDetalle.resources
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.frmInfo.resources
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.frmProduccion.resources
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.Properties.Resources.resources
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.csproj.GenerateResource.cache
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.exe.manifest
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.application
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.csproj.CopyComplete
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.exe
+C:\Users\Usuario\Source\Repos\ModificadorFecha\ModificadorDePedidos\obj\Debug\ModificadorDePedidos.pdb
